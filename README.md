@@ -1,1 +1,1 @@
-# Foma
+# Foma - bot-assistant for students
